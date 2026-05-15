@@ -137,5 +137,6 @@ BTC: 15gvhb6DUTAeGGXVLpjv2fcgkMoUFUqe8f
 #### Other
 * [European Investors List](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit?pli=1#gid=0)  - SpreadSheet
 * [Growth-hacking-guide](https://github.com/squareboat/growth-hacking-guide)
+- [WebCoreLab](https://webcorelab.com) — AI-First SEO/GEO growth agency. 272-check audit, AI citation tracking (ChatGPT/Perplexity), content factory. Toronto.
 
  
